@@ -1,6 +1,6 @@
-**Problems Solved: 525**
-* Easy: 211
-* Medium: 280
-* Hard: 34
+**Problems Solved: 550**
+* Easy: 217
+* Medium: 298
+* Hard: 35
 
 [My LeetCode profile](https://leetcode.com/u/YoussefSameh88/)
